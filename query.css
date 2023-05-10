@@ -172,6 +172,10 @@
         margin-left: 10px;
     }
 
+    .bsc img {
+        width: 300px;
+    }
+
     .bsc h2 {
         text-align: center;
     }
