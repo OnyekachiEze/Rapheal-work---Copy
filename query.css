@@ -1,0 +1,205 @@
+@media only screen and (max-width: 992px) {
+
+    body {
+        width: 100%;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .logo img {
+        width: 20%;
+    }
+
+    .logo a {
+        text-decoration: none;
+        color: green;
+    }
+
+    .header {
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .header img {
+        width: 70%;
+    }
+
+    .header a {
+        text-decoration: none;
+        color: blue;
+    }
+
+    .header h3 {
+        font-weight: lighter;
+    }
+
+    .header .ray {
+        font-size: 22px;
+    }
+
+    .header sub {
+        font-weight: lighter;
+    }
+
+    .header span {
+        background-color: yellowgreen;
+    }
+
+    .one {
+        color: rgb(104, 104, 192);
+        margin-left: 10px;
+    }
+
+    .one h1 {
+        font-size: 32px;
+        text-align: center;
+        margin-top: 50px;
+        color: black;
+    }
+
+    .one .img {
+        text-align: center;
+    }
+
+    .one img {
+        width: 30%;
+    }
+
+    .one .form {
+        color: black;
+    }
+
+    .plan .text {
+        text-align: center;
+    }
+
+    .plan h1 {
+        color: blue;
+    }
+
+    .plan h2 {
+        text-align: center;
+    }
+
+    .plan p {
+        margin-left: 10px;
+    }
+
+    .plan sub {
+        font-weight: lighter;
+        background-color: yellow;
+    }
+
+    .bran {
+        text-align: center;
+    }
+
+    .bran h1 {
+        color: red;
+        margin-top: 60px;
+    }
+
+    .brand h4 {
+        color: red;
+    }
+
+    .brand li {
+        color: blue;
+    }
+
+    .brand h2 {
+        text-align: center;
+    }
+
+    .brand .text {
+        margin-left: 10px;
+    }
+
+    .brand sub {
+        font-weight: lighter;
+        background-color: yellow;
+    }
+
+    .pitch {
+        margin-top: 50px;
+    }
+
+    .pitch .text {
+        margin-left: 10px;
+    }
+
+    .pitch .pit img {
+        width: 200px;
+    }
+
+    .pitch .text h3 {
+        color: red;
+    }
+
+    .pitch h2 {
+        text-align: center;
+    }
+
+    .pitch sub {
+        font-weight: lighter;
+        background-color: yellow;
+    }
+
+    .sustain {
+        margin-top: 50px;
+    }
+
+    .sustain .text {
+        margin-left: 10px;
+    }
+
+    .sustain h2 {
+        text-align: center;
+    }
+
+    .sustain sub {
+        font-weight: lighter;
+        background-color: yellow;
+    }
+
+    .bsc {
+        margin-top: 50px;
+    }
+
+    .bsc .text {
+        margin-left: 10px;
+    }
+
+    .bsc h2 {
+        text-align: center;
+    }
+
+    .bsc sub {
+        font-weight: lighter;
+        background-color: yellow;
+    }
+
+    .africa {
+        margin-left: 10px;
+    }
+
+    .africa .text {
+        margin-left: 10px;
+    }
+
+    .africa h5 {
+        text-align: center;
+    }
+
+    .africa .efc img {
+        width: 200px;
+    }
+
+    .africa .text li {
+        list-style-type: square;
+    }
+
+
+}
